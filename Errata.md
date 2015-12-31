@@ -12,6 +12,7 @@ If you encounter issues in the book, please post them to the forum for the appro
 ### 3. Structures and Classes
 
 - In the section "Reference and Value Types", `ball0.particle.x = 1` should be `ball0.position.x = 1`.
+- In the section "Instance methods", `type Double and returns an instance of Vector` should be `type Vector and returns an instance of Vector`.
 
 ### 6. Delegation
 
